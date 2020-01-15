@@ -16,11 +16,12 @@ kelas : TI.19.A3
 ![screenshot](https://user-images.githubusercontent.com/59908189/72410256-8f7c4a00-379a-11ea-880b-b99724c472ef.png)
 
 
-Penjelasan :
+Penjelasan :progam ini di gunakan untuk menghitung matriks
 
 
 2.Flowchart
 
+![flowchart](https://user-images.githubusercontent.com/59908189/72410929-4fb66200-379c-11ea-961b-b9841661b50c.PNG)
 
 3.Output 1
 
